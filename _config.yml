@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: jerr log
+title: JERR LOG
 
 # Your name to show in the footer
-author: Some Person
+author: Jerry
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,6 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Support: "support"
   Rentry: "https://rentry.org/jerrypi"
 
 ################
@@ -98,7 +99,7 @@ share-links-active:
   facebook: true
   linkedin: true
   vk: false
-  reddit: false
+  reddit: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
