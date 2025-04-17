@@ -21,11 +21,15 @@ author: Jerry
 
 navbar-links:
   About Me: "aboutme"
+  Prompt:
+    - Prompt: "prompt"
+    - Log: "bog"
+    - Bot: "bot"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Support: "support"
   Rentry: "https://rentry.org/jerrypi"
+  Support: "support"
 
 ################
 # --- Logo --- #
